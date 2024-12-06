@@ -56,7 +56,7 @@ Co-authored **"AI-Powered Nutrition Assistant and Step Tracker"**
 ## 🌐 Coding Activity
 
 <div align="center">
-  <img src="https://wakatime.com/share/@jeffreyhasan10/ca035a34-d9dd-4d32-a855-958ea291c6c0.svg" width="600" height="400" alt="Coding Activity"/>
+![Snake Animation](https://github.com/jeffreyhasan10/jeffreyhasan10/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ## 🤝 Let's Connect
