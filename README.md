@@ -32,8 +32,9 @@ Co-authored **"AI-Powered Nutrition Assistant and Step Tracker"**
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffreyhasan10&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffreyhasan10&count_private=true&show_icons=true&include_all_commits=true)
 
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jeffreyhasan10&theme=onestar&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffreyhasan)
