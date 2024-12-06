@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Jeffrey Hasan
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" height="269" alt="Coding Animation"/>
 </div>
 
 ## 💡 About Me
