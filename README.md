@@ -1,4 +1,8 @@
-# Hi there 👋 I'm Jeffrey Hasan
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Jeffrey Hasan
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
+</div>
 
 ## 💡 About Me
 
@@ -10,34 +14,66 @@ Passionate **Full Stack Developer** and **AI Enthusiast** bridging technology an
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
 
 ## 📜 Research Highlights
 
 Co-authored **"AI-Powered Nutrition Assistant and Step Tracker"**
-- Published in International Journal of Engineering Research & Technology (IJERT)
-- Developed AI algorithms for personalized nutrition guidance
-- Integrated IoT sensors for real-time activity monitoring
+- 📊 Published in International Journal of Engineering Research & Technology (IJERT)
+- 🧠 Developed AI algorithms for personalized nutrition guidance
+- 🌐 Integrated IoT sensors for real-time activity monitoring
 
 ## 🌟 Current Project: Someli
 
 **Someli** is an innovative AI-driven platform revolutionizing digital marketing:
-- Automates social media content creation
-- Generates unique, industry-specific content
-- Streamlines digital marketing with advanced AI technologies
+- 🤖 Automates social media content creation
+- 🚀 Generates unique, industry-specific content
+- 💡 Streamlines digital marketing with advanced AI technologies
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffreyhasan10&count_private=true&show_icons=true&include_all_commits=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffreyhasan10&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreyhasan10&theme=radical" alt="GitHub Streak" width="45%"/>
+</div>
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jeffreyhasan10&theme=onestar&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyhasan10&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jeffreyhasan10&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+## 🌐 Coding Activity
+
+<div align="center">
+  <img src="https://wakatime.com/share/@jeffreyhasan10/ca035a34-d9dd-4d32-a855-958ea291c6c0.svg" width="600" height="400" alt="Coding Activity"/>
+</div>
+
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffreyhasan)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jefyjery10@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/jeffreyhasan">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:jefyjery10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
-*Transforming ideas into impactful technological solutions*
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeffreyhasan10&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+*Transforming ideas into impactful technological solutions* 💻✨
