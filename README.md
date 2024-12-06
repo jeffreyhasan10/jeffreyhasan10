@@ -12,15 +12,6 @@ Passionate **Full Stack Developer** and **AI Enthusiast** bridging technology an
 - Developing **Someli**: An AI-powered social media content automation platform
 - Exploring innovative intersections of AI, web development, and digital marketing
 
-## 🛠️ Tech Stack
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
 
 ## 📜 Research Highlights
 
@@ -47,40 +38,6 @@ Co-authored **"AI-Powered Nutrition Assistant and Step Tracker"**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyhasan10&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
 </div>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeffreyhasan10&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
-## 🌐 Coding Journey 💻
-
-<div align="center">
-  <img src="https://media.giphy.com/media/배터리/배터리-web-development-animated-gif/giphy.gif" width="600" height="300" alt="Coding Animation"/>
-</div>
-
-### 📊 Coding Pulse
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyhasan10&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
-</div>
-
-### 🔥 Code Commitment
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreyhasan10&theme=radical" alt="GitHub Streak" width="500"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=jeffreyhasan10&theme=radical&column=7" alt="GitHub Trophies" width="800"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ### 🚀 Coding Metrics
 
