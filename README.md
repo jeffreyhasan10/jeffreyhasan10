@@ -1,7 +1,8 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Jeffrey Hasan
 
 <div align="center">
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW"></a></p></div>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
+</div>
 
 ## 💡 About Me
 
