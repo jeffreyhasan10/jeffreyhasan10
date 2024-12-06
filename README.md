@@ -53,11 +53,52 @@ Co-authored **"AI-Powered Nutrition Assistant and Step Tracker"**
   <img src="https://github-profile-trophy.vercel.app/?username=jeffreyhasan10&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
-## 🌐 Coding Activity
+## 🌐 Coding Journey 💻
 
 <div align="center">
-![Snake Animation](https://github.com/jeffreyhasan10/jeffreyhasan10/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://media.giphy.com/media/배터리/배터리-web-development-animated-gif/giphy.gif" width="600" height="300" alt="Coding Animation"/>
 </div>
+
+### 📊 Coding Pulse
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyhasan10&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+</div>
+
+### 🔥 Code Commitment
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreyhasan10&theme=radical" alt="GitHub Streak" width="500"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=jeffreyhasan10&theme=radical&column=7" alt="GitHub Trophies" width="800"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🚀 Coding Metrics
+
+<div align="center">
+  <img alt="Lines of Code" src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3000%2B%20lines%20of%20code-blue?style=for-the-badge&logo=github"/>
+  
+  <img alt="Repositories" src="https://img.shields.io/badge/Total%20Repositories-20%2B-green?style=for-the-badge&logo=git"/>
+  
+  <img alt="Contributions" src="https://img.shields.io/badge/Contributions-271-orange?style=for-the-badge&logo=github"/>
+</div>
+
+### 💡 Tech Exploration
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,vue,react,nodejs,mysql,git,html,css,firebase" alt="Skills"/>
+</div>
+
+*Turning code into creative solutions, one commit at a time* 🌟
 
 ## 🤝 Let's Connect
 
